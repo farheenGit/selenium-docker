@@ -1,0 +1,7 @@
+/target/
+test-output/
+bin/
+DockerOutput/
+.settings/
+.classpath
+.project
